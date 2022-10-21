@@ -12,7 +12,7 @@
 }
 
 /* Write your CSS here */
-.input-container {
+.search-input-container{
   display: flex;
   flex-direction: row;
   align-items: center;
