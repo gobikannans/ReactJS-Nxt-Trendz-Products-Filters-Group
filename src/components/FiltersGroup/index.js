@@ -22,7 +22,7 @@ const FiltersGroup = props => {
   }
 
   const renderSearchInput = () => (
-    <div className="input-container">
+    <div className="search-input-container">
       <input
         type="search"
         placeholder="Search"
